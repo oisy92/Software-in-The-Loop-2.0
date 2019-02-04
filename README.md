@@ -1,4 +1,4 @@
-# Autopilot Failure Mode Analysis using Simulation in the Loop, Supervisory Control and Data Acquisition 
+# [ARCHIVED] Autopilot Failure Mode Analysis using Simulation in the Loop, Supervisory Control and Data Acquisition 
 
 This is a modified implementation of Ardupilot ArduCopter to create an autonomous UAV flight simulator for autopilot studies and analysis. The simulator can be integrated with SCADA to add remote supervisory control regarding UAV attitude.
 
