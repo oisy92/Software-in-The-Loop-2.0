@@ -9,4 +9,4 @@ This is a modified implementation of Ardupilot ArduCopter to create an autonomou
 4. Python
 
 ## How to use
-![alt text](https://github.com/oisy92/SITL-2.0/blob/master/User%20Guide.pdf)
+https://github.com/oisy92/SITL-2.0/blob/master/User%20Guide.pdf
