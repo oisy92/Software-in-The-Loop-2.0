@@ -10,5 +10,5 @@ This is a modified implementation of Ardupilot ArduCopter to create an autonomou
 
 
 ## How to use
-Please visit the below link for user guide document.
+Please visit this link for user guide document.
 https://github.com/oisy92/SITL-2.0/blob/master/User%20Guide.pdf
